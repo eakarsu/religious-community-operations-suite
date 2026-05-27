@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/donation-programs`
+- `/volunteer-scheduling`
+- `/congregation-services`
 - `/members`
 - `/groups`
 - `/events`
